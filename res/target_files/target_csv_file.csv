@@ -1,0 +1,11 @@
+Name,Column1,Column2,Column3,Column4,Column5
+2012_2,Value1,10,TRUE,5.6,Red
+2145_1,Value2,20,FALSE,8.2,Green
+4234_1,Value3,15,TRUE,12.3,Blue
+2032_2,Value4,25,FALSE,6.9,Yellow
+4171_1,Value5,30,TRUE,9.1,Orange
+2012_3,Value6,33.5,TRUE,10.13,Red
+2145_2,Value7,38,FALSE,10.7,Green
+4234_2,Value8,42.5,TRUE,11.27,Blue
+2032_3,Value9,47,FALSE,11.84,Yellow
+4171_2,Value10,51.5,TRUE,12.41,Orange
